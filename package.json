@@ -1,0 +1,19 @@
+{
+  "name": "file-management-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Fernando Rocha",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "g": "^2.0.1",
+    "npm": "^10.9.0",
+    "prompt-sync": "^4.2.0",
+    "readline-sync": "^1.4.10"
+  }
+}
